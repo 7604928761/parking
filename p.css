@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    margin-top:90px;
+    font-size:60px;
+}
+#new{
+    margin-left:620px;
+    margin-top:80px;
+    font-size: 20px;
+    border-radius:5px;
+} 
+button{
+    font-size:20px;
+    margin-left:730px;
+    background-color: blue;
+    border-radius:5px;
+}
+body{
+    background-color: darkmagenta;
+}
+img{
+    margin-left:600px;
+}
+#output{
+    margin-left:700px;
+}
