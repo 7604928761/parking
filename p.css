@@ -16,12 +16,12 @@ button{
     border-radius:5px;
 }
 body{
-   background-image:url(parking.jpg);
-    backgroung-size:cover;
+   background-image:url(Parking.jpg);
+    background-size:cover;
 }
 img{
     margin-left:800px;
 }
 #output{
-    margin-left:900px;
+    margin-left:800px;
 }
